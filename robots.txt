@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SebaOfficial.github.io/archive-ol4uh8/sitemap.xml
